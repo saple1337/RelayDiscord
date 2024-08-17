@@ -1,0 +1,7 @@
+{
+    "token": "",
+    "prefix": "!",
+    "activity": "Relay Messages",
+    "dm_response": "Message relayed to all webhooks except your own.",
+    "image_directory": "./images/"
+}

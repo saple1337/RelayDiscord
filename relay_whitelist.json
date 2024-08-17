@@ -1,0 +1,23 @@
+{
+    "servers": [
+        {
+            "server_name": "Placeholder",
+            "authorized_users": [
+                "Placeholder",
+                "Placeholder"
+            ],
+            "server_link": "",
+            "webhook_link": "",
+            "server_image": "https://i.imgur.com/"
+        },
+        {
+            "server_name": "Placeholder",
+            "authorized_users": [
+                "Placeholder"
+            ],
+            "server_link": "",
+            "webhook_link": "",
+            "server_image": "https://i.imgur.com/"
+        }
+    ]
+}
