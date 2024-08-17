@@ -3,18 +3,19 @@
     <img src="https://i.imgur.com/2rvvPvi.png" alt="Discord Relay Bot" width="100" />
     <h1>Discord Relay Bot</h1>
 </div>
+<div align="center">
 
+[![Follow @saple1337](https://img.shields.io/badge/Follow-@saple1337-181717?style=for-the-badge&logo=github)](https://github.com/saple1337)
+[![Star](https://img.shields.io/badge/Star-Repo-181717?style=for-the-badge&logo=github)](https://github.com/saple1337/RelayDiscord)
+[![Fork](https://img.shields.io/badge/Fork-Repo-181717?style=for-the-badge&logo=github)](https://github.com/saple1337/RelayDiscord/fork)
+[![Watch](https://img.shields.io/badge/Watch-Repo-181717?style=for-the-badge&logo=github)](https://github.com/saple1337/RelayDiscord/subscription)
+[![Buy Me a Coffee](https://i.imgur.com/mYcE2J8.png)](https://www.buymeacoffee.com/saple1337)
+
+</div>
 
 
 Welcome to the **Discord Relay Bot**! This bot helps you relay important game information to authorized Discord servers with ease. Follow the steps below to get started with setting up and using the bot.
 
-## 📋 Table of Contents
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Running the Bot](#running-the-bot)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Support](#support)
 
 ## 🚀 Installation
 
@@ -99,11 +100,4 @@ Each user is subject to a 3-hour cooldown between message relays to prevent spam
 
 Feel free to contribute to the project by submitting a pull request. All contributions are welcome!
 
-## ☕ Support
-
-If you find this bot helpful, consider [buying me a coffee](https://www.buymeacoffee.com/saple1337) to support its development.
-
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/saple1337)
-
 For any questions or issues, reach out via my [profile](https://github.com/saple1337).
-
